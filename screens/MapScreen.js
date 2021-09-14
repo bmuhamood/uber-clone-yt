@@ -21,7 +21,7 @@ const MapScreen = () => {
                 <Icon name="menu" />
             </TouchableOpacity>
             <View style={tw`h-1/2`}>
-                <Map/>
+                <Map />
             </View>
             <View style={tw`h-1/2`}>
                 <Stack.Navigator>
